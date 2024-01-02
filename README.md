@@ -1,5 +1,7 @@
 # Unnecessary Things
 
+> Still in Development
+
 This repository contains the source code of a Minecraft mod called Unnecessary Things.
 It is called Unnecessary Things because it adds unnecessary things to Minecraft.🔥
 
@@ -24,4 +26,4 @@ Thank you to `Modding by Kaupenjoe` for making a video series about how to make 
 
 Thank you for reading the `README.md`.
 If you like this open source project, you can consider following my `Youtube` channel `XarCraft` or just following this repository.
-Here is the link: 
+To access it, click [here.](www.youtube.com/@xarcraft2021)
